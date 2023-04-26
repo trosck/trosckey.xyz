@@ -9,3 +9,5 @@ export interface ExternalService {
   serviceInfo: ExternalServiceInfo
 }
 
+export { Dogapi } from "./dogapi"
+export { MeowFacts } from "./meowfacts"
