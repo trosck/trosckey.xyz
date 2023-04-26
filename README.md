@@ -1,3 +1,3 @@
-# trosckey.xyz-frontend
+# trosckey.xyz
 
-Frontend for [https://trosckey.xyz](https://trosckey.xyz)
+client and server for https://trosckey.xyz
